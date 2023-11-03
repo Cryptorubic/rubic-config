@@ -222,13 +222,6 @@
     ]
   },
   {
-    "mute": [
-      {
-        "zksync": "0x"
-      }
-    ]
-  },
-  {
     "muteswap": [
       {
         "zksync": "0x"
@@ -352,13 +345,6 @@
     ]
   },
   {
-    "pancake_swap": [
-      {
-        "binance-smart-chain": "0x"
-      }
-    ]
-  },
-  {
     "pancakeswap": [
       {
         "base": "0x"
@@ -391,13 +377,6 @@
       },
       {
         "avalanche": "0xe54ca86531e17ef3616d22ca28b0d458b6c89106"
-      }
-    ]
-  },
-  {
-    "pangoline": [
-      {
-        "avalanche": "0x"
       }
     ]
   },
@@ -437,20 +416,6 @@
     ]
   },
   {
-    "quick_swap_v2": [
-      {
-        "polygon": "0x"
-      }
-    ]
-  },
-  {
-    "quick_swap_v3": [
-      {
-        "polygon": "0x"
-      }
-    ]
-  },
-  {
     "quickswap": [
       {
         "polygon": "0x"
@@ -481,20 +446,6 @@
     ]
   },
   {
-    "rubic_bsc_to_eth_bridge_swap": [
-      {
-        "binance-smart-chain": "0xe77b0e832a58afc2fcdaed060e8d701d97533086"
-      }
-    ]
-  },
-  {
-    "rubic_eth_to_bsc_bridge_swap": [
-      {
-        "ethereum": "0x8e3bcc334657560253b83f08331d85267316e08a"
-      }
-    ]
-  },
-  {
     "solarbeam": [
       {
         "moonriver": "0xaa30ef758139ae4a7f798112902bf6d65612045f"
@@ -512,23 +463,9 @@
     ]
   },
   {
-    "spirit_swap": [
-      {
-        "fantom": "0x"
-      }
-    ]
-  },
-  {
     "spiritswap": [
       {
         "fantom": "0x16327e3fbdaca3bcf7e38f5af2599d2ddc33ae52"
-      }
-    ]
-  },
-  {
-    "spooky_swap": [
-      {
-        "fantom": "0x"
       }
     ]
   },
@@ -543,22 +480,6 @@
     "surfdex": [
       {
         "kava": "0x4310ed61e7e4fd50c2b44c92725c087abeb632a2"
-      }
-    ]
-  },
-  {
-    "sushi": [
-      {
-        "ethereum": "0x"
-      },
-      {
-        "arbitrum": "0x"
-      },
-      {
-        "binance-smart-chain": "0x"
-      },
-      {
-        "polygon": "0x"
       }
     ]
   },
@@ -619,26 +540,6 @@
     "trisolaris": [
       {
         "aurora": "0x2cb45edb4517d5947afde3beabf95a582506858b"
-      }
-    ]
-  },
-  {
-    "uni_v2": [
-      {
-        "ethereum": "0x"
-      }
-    ]
-  },
-  {
-    "uni_v3": [
-      {
-        "ethereum": "0x"
-      },
-      {
-        "arbitrum": "0x"
-      },
-      {
-        "polygon": "0x"
       }
     ]
   },
@@ -818,20 +719,6 @@
       },
       {
         "ethereum": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
-      }
-    ]
-  },
-  {
-    "xdai_home_bridge_erc_to_native": [
-      {
-        "xdai": "0x19dd70371a8fe50f1fa8ff8b4cfb091a41be548f"
-      }
-    ]
-  },
-  {
-    "xdai_proxy_home_bridge_erc_to_native": [
-      {
-        "xdai": "0x7301cfa0e1756b71869e93d4e4dca5c7d0eb0aa6"
       }
     ]
   },
