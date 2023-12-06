@@ -1,5 +1,11 @@
 [
   {
+    "rbc_arbitrum_bridge": [
+      "ethereum",
+      "arbitrum"
+    ]
+  },
+  {
     "symbiosis": []
   },
   {
@@ -22,8 +28,5 @@
   },
   {
     "changenow": []
-  },
-  {
-    "rbc_arbitrum_bridge": []
   }
 ]
