@@ -1,32 +1,267 @@
 [
   {
-    "rbc_arbitrum_bridge": [
+    "title": "bridgers",
+    "networks": [
       "ethereum",
-      "arbitrum"
+      "binance-smart-chain",
+      "polygon",
+      "fantom",
+      "tron"
     ]
   },
   {
-    "symbiosis": []
+    "title": "celer_bridge",
+    "networks": [
+      "binance-smart-chain",
+      "polygon",
+      "avalanche",
+      "ethereum",
+      "fantom",
+      "arbitrum",
+      "aurora",
+      "optimism",
+      "astar-evm",
+      "goerli",
+      "binance-smart-chain-testnet",
+      "mumbai",
+      "fuji"
+    ]
   },
   {
-    "squidrouter": []
+    "title": "changenow",
+    "networks": [
+      "theta",
+      "flare",
+      "filecoin",
+      "eos",
+      "bitcoin-cash",
+      "bitcoin",
+      "icp",
+      "cardano",
+      "aion",
+      "algorand",
+      "aptos",
+      "ardor",
+      "astar",
+      "ark",
+      "cosmos",
+      "band-protocol",
+      "bitcoin-diamond",
+      "bsv",
+      "bitcoin-gold",
+      "casper",
+      "dash",
+      "decred",
+      "digi-byte",
+      "divi",
+      "dogecoin",
+      "polkadot",
+      "multivers-x",
+      "fio-protocol",
+      "firo",
+      "flow",
+      "hedera",
+      "helium",
+      "icon",
+      "iost",
+      "iota",
+      "kadena",
+      "komodo",
+      "kusama",
+      "lisk",
+      "litecoin",
+      "terra",
+      "terra-classic",
+      "mina-protocol",
+      "nano",
+      "near",
+      "neo",
+      "osmosis",
+      "pivx",
+      "polyx",
+      "qtum",
+      "thor-chain",
+      "ravencoin",
+      "sia",
+      "secret",
+      "solana",
+      "steem",
+      "stratis",
+      "stacks",
+      "solar",
+      "ton",
+      "ve-chain",
+      "waves",
+      "wax",
+      "dx-chain",
+      "e-cash",
+      "nem",
+      "stellar",
+      "monero",
+      "ripple",
+      "tezos",
+      "verge",
+      "symbol",
+      "zcash",
+      "horizen",
+      "zilliqa",
+      "tron",
+      "kava-cosmos",
+      "ethereum",
+      "binance-smart-chain",
+      "polygon",
+      "arbitrum",
+      "avalanche",
+      "optimism",
+      "fantom",
+      "pulsechain",
+      "base",
+      "zksync"
+    ]
   },
   {
-    "lifi": []
+    "title": "dln",
+    "networks": [
+      "ethereum",
+      "binance-smart-chain",
+      "polygon",
+      "arbitrum",
+      "avalanche",
+      "linea",
+      "optimism",
+      "base"
+    ]
   },
   {
-    "celer_bridge": []
+    "title": "lifi",
+    "networks": [
+      "ethereum",
+      "binance-smart-chain",
+      "polygon",
+      "avalanche",
+      "fantom",
+      "moonriver",
+      "arbitrum",
+      "optimism",
+      "cronos",
+      "oke-x-chain",
+      "gnosis",
+      "fuse",
+      "moonbeam",
+      "celo",
+      "base",
+      "polygon-zkevm",
+      "zksync"
+    ]
   },
   {
-    "dln": []
+    "title": "stargate",
+    "networks": [
+      "ethereum",
+      "binance-smart-chain",
+      "polygon",
+      "avalanche",
+      "fantom",
+      "arbitrum",
+      "optimism",
+      "metis",
+      "base"
+    ]
   },
   {
-    "xy": []
+    "title": "squidrouter",
+    "networks": [
+      "ethereum",
+      "arbitrum",
+      "optimism",
+      "avalanche",
+      "polygon",
+      "moonbeam",
+      "binance-smart-chain",
+      "fantom",
+      "celo",
+      "kava",
+      "linea",
+      "base",
+      "mantle",
+      "scroll"
+    ]
   },
   {
-    "bridgers": []
+    "title": "symbiosis",
+    "networks": [
+      "ethereum",
+      "binance-smart-chain",
+      "polygon",
+      "avalanche",
+      "boba",
+      "boba-bsc",
+      "boba-avalanche",
+      "telos",
+      "zksync",
+      "arbitrum",
+      "optimism",
+      "polygon-zkevm",
+      "linea",
+      "base",
+      "mantle",
+      "tron",
+      "scroll",
+      "goerli",
+      "binance-smart-chain-testnet",
+      "fuji",
+      "mumbai",
+      "scroll-sepolia",
+      "zetachain",
+      "manta-pacific"
+    ]
   },
   {
-    "changenow": []
+    "title": "taiko_bridge",
+    "networks": [
+      "scroll-sepolia"
+    ]
+  },
+  {
+    "title": "xy",
+    "networks": [
+      "ethereum",
+      "binance-smart-chain",
+      "polygon",
+      "fantom",
+      "cronos",
+      "avalanche",
+      "arbitrum",
+      "optimism",
+      "astar-evm",
+      "moonriver",
+      "zksync",
+      "polygon-zkevm",
+      "linea",
+      "base",
+      "scroll"
+    ]
+  },
+  {
+    "title": "rango",
+    "networks": [
+      "ethereum",
+      "polygon",
+      "optimism",
+      "arbitrum",
+      "fantom",
+      "avalanche",
+      "binance-smart-chain",
+      "cronos",
+      "moonbeam",
+      "moonriver",
+      "polygon-zkevm",
+      "aurora",
+      "gnosis",
+      "boba",
+      "boba-bsc",
+      "boba-avalanche",
+      "starknet"
+    ]
   }
 ]
