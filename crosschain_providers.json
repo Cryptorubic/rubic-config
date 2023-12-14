@@ -263,5 +263,12 @@
       "boba-avalanche",
       "starknet"
     ]
+  },
+  {
+    "title": "pulsechain_bridge",
+    "networks": [
+      "ethereum",
+      "pulsechain"
+    ]
   }
 ]
