@@ -1020,5 +1020,58 @@
         "contract_address": "0x0"
       }
     ]
+  },
+  {
+    "title": "rango",
+    "networks": [
+      {
+        "title": "ethereum",
+        "contract_address": "0x69460570c93f9DE5E2edbC3052bf10125f0Ca22d"
+      },
+      {
+        "title": "polygon",
+        "contract_address": "0x69460570c93f9DE5E2edbC3052bf10125f0Ca22d"
+      },
+      {
+        "title": "optimism",
+        "contract_address": "0x69460570c93f9DE5E2edbC3052bf10125f0Ca22d"
+      },
+      {
+        "title": "arbitrum",
+        "contract_address": "0x69460570c93f9DE5E2edbC3052bf10125f0Ca22d"
+      },
+      {
+        "title": "avalanche",
+        "contract_address": "0x69460570c93f9DE5E2edbC3052bf10125f0Ca22d"
+      },
+      {
+        "title": "binance-smart-chain",
+        "contract_address": "0x69460570c93f9DE5E2edbC3052bf10125f0Ca22d"
+      },
+      {
+        "title": "cronos",
+        "contract_address": "0x69460570c93f9DE5E2edbC3052bf10125f0Ca22d"
+      },
+      {
+        "title": "polygon-zkevm",
+        "contract_address": "0x69460570c93f9DE5E2edbC3052bf10125f0Ca22d"
+      },
+      {
+        "title": "aurora",
+        "contract_address": "0x69460570c93f9DE5E2edbC3052bf10125f0Ca22d"
+      },
+      {
+        "title": "metis",
+        "contract_address": "0x69460570c93f9DE5E2edbC3052bf10125f0Ca22d"
+      },
+      {
+        "title": "base",
+        "contract_address": "0x69460570c93f9DE5E2edbC3052bf10125f0Ca22d"
+      },
+      {
+        "title": "linea",
+        "contract_address": "0x69460570c93f9DE5E2edbC3052bf10125f0Ca22d"
+      }
+    ]
   }
 ]
