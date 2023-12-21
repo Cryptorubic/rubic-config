@@ -249,19 +249,14 @@
       "polygon",
       "optimism",
       "arbitrum",
-      "fantom",
       "avalanche",
       "binance-smart-chain",
       "cronos",
-      "moonbeam",
-      "moonriver",
       "polygon-zkevm",
       "aurora",
-      "gnosis",
-      "boba",
-      "boba-bsc",
-      "boba-avalanche",
-      "starknet"
+      "metis",
+      "base",
+      "linea"
     ]
   },
   {
