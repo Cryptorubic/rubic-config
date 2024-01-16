@@ -1144,6 +1144,10 @@
       {
         "title": "zksync",
         "contract_address": "0x56C343E7cE75e53e58Ed2f3743C6f137c13D2013"
+      },
+      {
+        "title": "tron",
+        "contract_address": "0x"
       }
     ]
   }
