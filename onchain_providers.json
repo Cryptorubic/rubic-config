@@ -1033,7 +1033,7 @@
         "contract_address": "0x69460570c93f9DE5E2edbC3052bf10125f0Ca22d"
       },
       {
-        "title": "optimism",
+        "title": "optimistic-ethereum",
         "contract_address": "0x69460570c93f9DE5E2edbC3052bf10125f0Ca22d"
       },
       {
@@ -1071,6 +1071,83 @@
       {
         "title": "linea",
         "contract_address": "0x69460570c93f9DE5E2edbC3052bf10125f0Ca22d"
+      }
+    ]
+  },
+  {
+    "title": "symbiosis",
+    "networks": [
+      {
+        "title": "ethereum",
+        "contract_address": "0x0425841529882628880fBD228AC90606e0c2e09A"
+      },
+      {
+        "title": "arbitrum",
+        "contract_address": "0x4FDA0599b78a49d289577a8DF2046459abC04d82"
+      },
+      {
+        "title": "binance-smart-chain",
+        "contract_address": "0x0425841529882628880fBD228AC90606e0c2e09A"
+      },
+      {
+        "title": "polygon",
+        "contract_address": "0x9d74807B8fA79d49bb95CF988Af3c25Fb1437B4f"
+      },
+      {
+        "title": "avalanche",
+        "contract_address": "0xA257F3FE4E4032291516DC355eDF90664e9eB932"
+      },
+      {
+        "title": "boba",
+        "contract_address": "0xB79A4F5828eb55c10D7abF4bFe9a9f5d11aA84e0"
+      },
+      {
+        "title": "boba-bnb",
+        "contract_address": "0x7e0B73141c8a1AC26B8693e9F34cf42BE17Fea2C"
+      },
+      {
+        "title": "telos-evm",
+        "contract_address": "0xf02bBC9de6e443eFDf3FC41851529C2c3B9E5e0C"
+      },
+      {
+        "title": "zksync",
+        "contract_address": "0x56C343E7cE75e53e58Ed2f3743C6f137c13D2013"
+      },
+      {
+        "title": "optimistic-ethereum",
+        "contract_address": "0x7775b274f0C3fA919B756b22A4d9674e55927ab8"
+      },
+      {
+        "title": "polygon-zkevm",
+        "contract_address": "0xB79A4F5828eb55c10D7abF4bFe9a9f5d11aA84e0"
+      },
+      {
+        "title": "linea",
+        "contract_address": "0x0f91052dc5B4baE53d0FeA5DAe561A117268f5d2"
+      },
+      {
+        "title": "base",
+        "contract_address": "0xF951789c6A356BfbC3033648AA10b5Dd3e9d88C0"
+      },
+      {
+        "title": "mantle",
+        "contract_address": "0x7B4E28E7273aA8CB64C56fF191ebF43b64f409F9"
+      },
+      {
+        "title": "metis",
+        "contract_address": "0x81aB74A9f9d7457fF47dfD102e78A340cF72EC39"
+      },
+      {
+        "title": "scroll",
+        "contract_address": "0xf02bBC9de6e443eFDf3FC41851529C2c3B9E5e0C"
+      },
+      {
+        "title": "zksync",
+        "contract_address": "0x56C343E7cE75e53e58Ed2f3743C6f137c13D2013"
+      },
+      {
+        "title": "tron",
+        "contract_address": "0x"
       }
     ]
   }
