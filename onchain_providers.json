@@ -1150,5 +1150,46 @@
         "contract_address": "0x"
       }
     ]
+  },
+  {
+    "title": "odos",
+    "networks":[
+      {
+        "title": "ethereum",
+        "contract_address": "0xcf5540fffcdc3d510b18bfca6d2b9987b0772559"
+      },
+      {
+        "title": "zksync",
+        "contract_address": "0x4bBa932E9792A2b917D47830C93a9BC79320E4f7"
+      },
+      {
+        "title": "base",
+        "contract_address": "0x19cEeAd7105607Cd444F5ad10dd51356436095a1"
+      },
+      {
+        "title": "polygon",
+        "contract_address": "0x4E3288c9ca110bCC82bf38F09A7b425c095d92Bf"
+      },
+      {
+        "title": "optimistic-ethereum",
+        "contract_address": "0xCa423977156BB05b13A2BA3b76Bc5419E2fE9680"
+      },
+      {
+        "title": "avalanche",
+        "contract_address": "0x88de50B233052e4Fb783d4F6db78Cc34fEa3e9FC"
+      },
+      {
+        "title": "arbitrum",
+        "contract_address": "0xa669e7A0d4b3e4Fa48af2dE86BD4CD7126Be4e13"
+      },
+      {
+        "title": "binance-smart-chain",
+        "contract_address": "0x89b8AA89FDd0507a99d334CBe3C808fAFC7d850E"
+      },
+      {
+        "title": "fantom",
+        "contract_address": "0xD0c22A5435F4E8E5770C1fAFb5374015FC12F7cD"
+      }
+    ]
   }
 ]
