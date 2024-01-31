@@ -191,6 +191,10 @@
       {
         "title": "zksync",
         "contract_address": "0x943ac2310D9BC703d6AB5e5e76876e212100f894"
+      },
+      {
+        "title": "zetachain",
+        "contract_address": "0x34bc1b87f60e0a30c0e24FD7Abada70436c71406"
       }
     ]
   },
