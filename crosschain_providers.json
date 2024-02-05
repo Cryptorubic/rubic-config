@@ -265,5 +265,13 @@
       "ethereum",
       "pulsechain"
     ]
+  },
+  {
+    "title": "layerzero",
+    "networks": [
+      "binance-smart-chain",
+      "polygon",
+      "arbitrum"
+    ]
   }
 ]
