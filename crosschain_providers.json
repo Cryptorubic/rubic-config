@@ -273,5 +273,23 @@
       "polygon",
       "arbitrum"
     ]
+  },
+  {
+    "title": "orbiter_bridge",
+    "networks": [
+      "ethereum",
+      "arbitrum",
+      "zksync",
+      "polygon",
+      "optimism",
+      "binance-smart-chain",
+      "polygon-zkevm",
+      "linea",
+      "mantle",
+      "base",
+      "manta-pacific",
+      "scroll",
+      "starknet"
+    ]
   }
 ]
