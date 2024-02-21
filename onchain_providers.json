@@ -209,6 +209,10 @@
       {
         "title": "zetachain",
         "contract_address": "0x34bc1b87f60e0a30c0e24FD7Abada70436c71406"
+      },
+      {
+        "title": "kroma",
+        "contract_address": "0x02F55D53DcE23B4AA962CC68b0f685f26143Bdb2"
       }
     ],
     "sdk_title": "IZUMI"
