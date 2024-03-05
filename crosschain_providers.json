@@ -292,5 +292,13 @@
       "starknet",
       "kroma"
     ]
+  },
+  {
+    "title": "archon_bridge",
+    "networks": [
+      "ethereum",
+      "avalanche",
+      "horizen-eon"
+    ]
   }
 ]
