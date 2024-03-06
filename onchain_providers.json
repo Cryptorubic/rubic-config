@@ -30,6 +30,16 @@
     "sdk_title": "APE_SWAP"
   },
   {
+    "title": "ascent",
+    "networks": [
+      {
+        "title": "ascent",
+        "contract_address": "0xcBE5798aeC48bed4bd90DD60882b4a9665bA33E2"
+      }
+    ],
+    "sdk_title": "ASCENT"
+  },
+  {
     "title": "astroswap",
     "networks": [
       {
@@ -649,6 +659,10 @@
       {
         "title": "fantom",
         "contract_address": "0xf491e7b69e4244ad4002bc14e878a34207e38c29"
+      },
+      {
+        "title": "horizen-eon",
+        "contract_address": "0xccEC4EF0228488636B6E8dF77D7d4211c87Ef255"
       }
     ],
     "sdk_title": "SPOOKY_SWAP"
