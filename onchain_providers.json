@@ -70,6 +70,16 @@
     "sdk_title": "BRIDGERS"
   },
   {
+    "title": "camelot",
+    "networks": [
+      {
+        "title": "arbitrum",
+        "contract_address": "0x1F721E2E82F6676FCE4eA07A5958cF098D339e18"
+      }
+    ],
+    "sdk_title": "CAMELOT"
+  },
+  {
     "title": "claimswap",
     "networks": [
       {
