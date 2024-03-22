@@ -336,6 +336,16 @@
     "sdk_title": "LIFI"
   },
   {
+    "title": "merlinswap",
+    "networks": [
+      {
+        "title": "merlin",
+        "contract_address": "0x1aFa5D7f89743219576Ef48a9826261bE6378a68"
+      }
+    ],
+    "sdk_title": "MERLIN_SWAP"
+  },
+  {
     "title": "muteswap",
     "networks": [
       {
